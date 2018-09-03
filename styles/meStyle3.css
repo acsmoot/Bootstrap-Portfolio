@@ -1,0 +1,34 @@
+_body{
+    font-family: 'open sans', sans-serif;
+}
+
+.contact-info {
+  width: 30%;
+  font-weight: bolder;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#career-bio {
+    font-style: strong;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+
+}
+
+.thought{
+    font-family: 'Anton', sans-serif;
+}
+
+.navbar-brand {
+    padding: 0;
+
+    /* Positioning */
+    margin: 0;
+  
+    /* Typography */
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+}
+
